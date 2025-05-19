@@ -1,2 +1,2 @@
-.parquet
-.ipynb_checkpoints
+*.parquet
+*.ipynb_checkpoints
